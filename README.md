@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-1. Clone the repo
+1. Clone this repo
 2. Install requirements
 
 ```
@@ -18,14 +18,14 @@ pip install -r requirements.txt
 
 
 ## Running the example
-1. Make sure there is a target_video.mp4 in target_data/
-2. Make sure there is a *.jpg in source_data/ of your face
+1. Make sure there is a *.jpg in target_data/
+2. Make sure there is a *.jpg in source_data/ 
 3. run the example from root dir 
 
     ```
-    python image2vid_example.py
+    python images_example.py
     ```
-4. Get your deepfake in processed_data/modded.mp4
+4. Get your deepfake in processed_data/
 
 
 Please keep in mind that this project only works with 1 face images
