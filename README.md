@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ## Running the example
 1. Make sure there is a target_video.mp4 in target_data/
-2. Make sure there is a source_video.mp4 in source_data/
+2. Make sure there is a *.jpg in source_data/ of your face
 3. run the example from root dir 
 
     ```
