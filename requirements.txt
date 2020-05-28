@@ -1,0 +1,5 @@
+numpy>=1.18.4
+matplotlib>=3.2.1
+cmake>=3.17.2
+dlib>=19.19.0
+joblib>=0.15.1
