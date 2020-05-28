@@ -1,5 +1,7 @@
 # DeepFakeMe
-
+<img src="./readme_example/bean.jpg" width="200">
+<img src="./readme_example/sup.jpg" width="200">
+<img src="./readme_example/sup_modded.jpg" width="200">
 
 ## Getting Started
 Please note this is a sample project!
@@ -20,7 +22,7 @@ pip install -r requirements.txt
 ## Running the example
 1. Make sure there is a *.jpg in target_data/
 2. Make sure there is a *.jpg in source_data/ 
-3. run the example from root dir 
+3. run the example with:
 
     ```
     python images_example.py
