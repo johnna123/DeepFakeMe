@@ -11,6 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
+0. Make sure you are using python 3.7
 1. Clone this repo
 2. Install requirements
 
